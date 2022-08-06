@@ -11,5 +11,5 @@ This is the UI of the application.
 </p>
 
 # Download
-To download the application click here -> DOWNLOAD
+To download the application click here -> [DOWNLOAD](https://drive.google.com/file/d/1MNIJqefvO_nRaWsD-_9-ZV-z0C6DQaJx/view?usp=sharing)
 
